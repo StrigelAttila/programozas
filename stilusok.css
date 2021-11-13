@@ -46,7 +46,7 @@ thead th a:hover {
 }
 
 thead th a:visited {
-    background-color: gold;
+    background-color: orange;
     text-decoration: none;
 }
 
@@ -61,10 +61,7 @@ thead th a:link {
 tbody {
     font-size: 1.2em;
    }
-   u {    
-    border-bottom: 2px dotted #000;
-    text-decoration: none;
-}
+   
 
 tfoot th {
     text-shadow: 6px 3px 4px yellow;
